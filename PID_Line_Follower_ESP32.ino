@@ -16,9 +16,6 @@
 #define PWMB 32
 #define STBY 19
 
-const int offsetA = 1;
-const int offsetB = 1;
-
 // Initializing motors.  The library will allow you to initialize as many
 // motors as you have memory for.  If you are using functions like forward
 // that take 2 motors as arguements you can either write new functions or
